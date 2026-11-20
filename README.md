@@ -55,7 +55,7 @@ explicando-css/
 │   └── styles.css
 │   
 ├── img/
-│   └── css-logo.png
+│   ├── css-logo.png
 │   ├── preview-detalhes.png
 │   └── preview-inicio.png
 │
