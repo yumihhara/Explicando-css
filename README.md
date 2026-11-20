@@ -24,10 +24,10 @@ O site tem duas páginas:
 ## 🖼️ Preview
 
 ### Página inicial
-![Página inicial](docs/preview-inicio.png)
+![Página inicial](img/preview-inicio.png)
 
 ### Página de detalhes
-![Página de detalhes](docs/preview-detalhes.png)
+![Página de detalhes](img/preview-detalhes.png)
 
 ## ✨ O que foi praticado
 
