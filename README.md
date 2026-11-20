@@ -53,11 +53,12 @@ O site tem duas páginas:
 explicando-css/
 ├── css/
 │   └── styles.css
-├── docs/
-│   ├── preview-inicio.png
-│   └── preview-detalhes.png
+│   
 ├── img/
 │   └── css-logo.png
+│   ├── preview-detalhes.png
+│   └── preview-inicio.png
+│
 ├── index.html        # Página inicial
 ├── index2.html       # Página de detalhes (tabela de propriedades)
 └── README.md
