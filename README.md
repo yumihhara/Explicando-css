@@ -80,16 +80,9 @@ Não precisa instalar nada. É só abrir no navegador:
 
 > **Obs.:** a fonte e os ícones são carregados pela internet (Google Fonts e Font Awesome), então é preciso estar conectado para ver tudo como no preview.
 
-## 🔮 Possíveis melhorias
-
-- [ ] Deixar o layout responsivo para celular (`@media queries`)
-- [ ] Adicionar mais propriedades e exemplos visuais na página de detalhes
-- [ ] Criar um menu mobile
-- [ ] Publicar no GitHub Pages
-
 ## 👩‍💻 Autor
 
-Feito por **SEU NOME** como parte da graduação em **NOME DO CURSO**.
+Feito por **Beatriz Yumi M. Hara** como parte da graduação em **Engenharia de Sofware**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
